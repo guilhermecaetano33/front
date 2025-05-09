@@ -4,7 +4,7 @@
   margin: 2rem auto;
   padding: 1rem;
   text-align: center;
-  background-color: #f7f7f7;
+  background-color: #3f21c7;
   border-radius: 8px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2.5rem 5rem 0 rgba(0, 0, 0, 0.1);
   max-height: calc(100vh - 6rem);
@@ -20,7 +20,7 @@
 }
 
 h1 {
-  color: black;
+  color: rgb(255, 253, 253);
   font-family: Calibri, sans-serif;
   font-weight: bold;
   font-size: 1.5rem;
@@ -72,9 +72,9 @@ h1 {
 }
 
 .btn-primary:hover {
-  background-color: #374151;
+  background-color: #fbff00;
   transform: translateY(-2px);
-  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 6px 8px rgba(175, 248, 4, 0.15);
 }
 
 .btn-primary:active {
